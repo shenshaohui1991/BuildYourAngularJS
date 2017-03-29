@@ -1,0 +1,15 @@
+{
+  //"extends": ["airbnb", "airbnb-flow"],
+  "extends": "eslint",
+  "rules": {
+    "require-jsdoc": 0,
+    "quotes": 0,
+    "eol-last": 0
+  },
+  "env": {
+    "jasmine": true
+  },
+  "globals": {
+
+  }
+}
